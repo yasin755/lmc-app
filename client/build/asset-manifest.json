@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feef2021.css",
+    "main.js": "/static/js/main.c3f9ce44.js",
+    "index.html": "/index.html",
+    "main.feef2021.css.map": "/static/css/main.feef2021.css.map",
+    "main.c3f9ce44.js.map": "/static/js/main.c3f9ce44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feef2021.css",
+    "static/js/main.c3f9ce44.js"
+  ]
+}
